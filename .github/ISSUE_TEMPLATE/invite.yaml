@@ -1,5 +1,5 @@
 name: Invitation to the GitHub Community Organization
-description: I would like to be part of the awesome community
+description: I would like to be part of the awesome Py-Contributors community
 title: "Please invite me to the GitHub Community Organization"
 labels: [invite me to the organisation]
 body:
@@ -21,11 +21,11 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Eddie? What do you like about this community/Why do you want to join?
+      description: How did you learn this community? Why do you want to join this community?
     validations:
       required: true
   - type: markdown
     attributes:
       value: |
-        You can also join our Discord community [here](http://discord.eddiehub.org)
-        Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/EddieHubCommunity)
+        You can also join our Discord community [here](https://discord.gg/JfbK3bS)
+        Feel free to check out other cool repositories of the Py-Contributors Community [here](https://github.com/orgs/Py-Contributors)
