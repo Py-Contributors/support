@@ -1,5 +1,5 @@
 name: Invitation to the GitHub Community Organization
-description: I would like to be part of the awesome Py-Contributors community
+description: I would like to be part of the Py-Contributors community
 title: "Please invite me to the GitHub Community Organization"
 labels: [invite me to the organisation]
 body:
@@ -21,7 +21,7 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: How did you learn this community? Why do you want to join this community?
+      description: How did you learn about Py-Contributors? Why do you want to join us?
     validations:
       required: true
   - type: markdown
