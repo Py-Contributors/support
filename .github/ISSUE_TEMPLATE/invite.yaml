@@ -23,7 +23,7 @@ body:
       label: Additional Context
       description: How did you learn about Py-Contributors? Why do you want to join us?
     validations:
-      required: true
+      required: false
   - type: markdown
     attributes:
       value: |
