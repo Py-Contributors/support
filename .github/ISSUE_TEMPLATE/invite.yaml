@@ -10,18 +10,11 @@ body:
       placeholder: Insert your name here
     validations:
       required: true
-  - type: input
-    id: discordname
-    attributes:
-      label: Discord Username (if applicable)
-      placeholder: Insert your Discord username here
-    validations:
-      required: false
   - type: textarea
     id: Additional
     attributes:
       label: Additional Context
-      description: How did you learn about Py-Contributors? Why do you want to join us?
+      description: How did you learn about Py-Contributors? Why do you want to join us? 
     validations:
       required: false
   - type: markdown
